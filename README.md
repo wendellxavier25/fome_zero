@@ -1,9 +1,7 @@
-<h1>Project Recipe</h1>
+<h1>Projeto fome zero</h1>
 
 <p>
-  A recipe project where you can create, update, and delete recipes. It supports
-  tagging for publications, recipe searches, and automatic translation between
-  English and Portuguese (BR).
+  projeto feito com Django e Bootstrap. onde tem funcionalidade de cadastrar usuário, que pode acessar áreas onde tem doação de marmitas. e área de voluntários, que pode criar localização de doação
 </p>
 
 <h2>🛠 Tools Used</h2>
